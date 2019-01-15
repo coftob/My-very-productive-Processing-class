@@ -66,4 +66,3 @@ _(Multiplayer mode)_<br/>
 You play single or multi player pong. For each point your pizza gets more ingredients. 
 You can win the game by earning 15 points and complete your pizza
 or losing your 3 lifes and burn the pizza.
-
