@@ -35,4 +35,4 @@ The slide controllers can change the value of the opacity, speed, amount and siz
 ![insomnia4](/insomnia_simulator/stressmonster.jpg)
 
 With the help of variables the stressmonsters come in different shapes and sizes!
-
+_EDIT: This time the graphics are made by me._
