@@ -6,6 +6,8 @@ These are Processing sketches I made during the winter semester 2018/19 at FH Po
 
 With the use of sin/cos functions I created patterns which can be used for the laser cutter. Also I learned about SVG files and gained back some old math skills! 
 
+
+
 ## Transformation of an unreadable dataset into a useful application
 ![suicide rates](/suicide_rates/suiciderates.jpg)
 
