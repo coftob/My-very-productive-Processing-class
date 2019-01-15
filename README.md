@@ -15,7 +15,7 @@ Using a downloaded dataset and arrays I wrote a program that searches through th
 
 **How does it work:** 
 
-Hover over the picture of each generation and see in which contry and year the suicide rates were the highest. You can differenciate between the statistics for men and women.
+Hover over the picture of each generation and see in which country and year the suicide rates were the highest. You can differenciate between the statistics for men and women.
 
 _EDIT: For this project I took the pictures from the internet, therefore I DO NOT own them._
 <br/><br/><br/><br/>
