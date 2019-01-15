@@ -28,7 +28,7 @@ A interactive program that uses classes, arrays and for-loops to create an endle
 
 ![insomnia2](/insomnia_simulator/insomnia2.PNG)
 
-The start menu explains the setting.<br/><br/>v
+The start menu explains the setting.<br/><br/>
 
 ![insomnia3](/insomnia_simulator/insomnia3.PNG)
 
