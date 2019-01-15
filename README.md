@@ -18,7 +18,7 @@ Using a downloaded dataset and arrays I wrote a program that searches through th
 Hover over the picture of each generation and see in which contry and year the suicide rates were the highest. You can differenciate between the statistics for men and women.
 
 _EDIT: For this project I took the pictures from the internet, therefore I DO NOT own them._
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 
 ## Insomnia simulator
@@ -28,11 +28,11 @@ A interactive program that uses classes, arrays and for-loops to create an endle
 
 ![insomnia2](/insomnia_simulator/insomnia2.PNG)
 
-The start menu explains the setting.<br/>
+The start menu explains the setting.<br/><br/>v
 
 ![insomnia3](/insomnia_simulator/insomnia3.PNG)
 
-The slide controllers can change the value of the opacity, speed, amount and size of the stressmonsters.<br/>
+The slide controllers can change the value of the opacity, speed, amount and size of the stressmonsters.<br/><br/>
 
 ![insomnia4](/insomnia_simulator/stressmonster.jpg)
 
@@ -55,11 +55,11 @@ There were two Versions of the game. Version A was a basic single player game.
 
 ![pizza2](/multi_player/pizzapong1.jpg)
 
-_(Version A on the left; Version B on the right)_<br/>
+_(Version A on the left; Version B on the right)_<br/><br/>
 
 ![pizza3](/multi_player/pizzapong2.jpg)
 
-_(Multiplayer mode)_<br/>
+_(Multiplayer mode)_<br/><br/>
 
 **Here are the rules:**
 
