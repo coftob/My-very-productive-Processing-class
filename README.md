@@ -46,10 +46,10 @@ Pizza Pong is a version of Pong, but with an additional pizza making element. I 
 There were two Versions of the game. Version A was a basic single player game. 
 
 **What's different in Version B:**
-..* a menu + how to play
-..* a multiplayer mode
-..* the pizza guy changes directions
-..* back to menu button
+* a menu + how to play
+* a multiplayer mode
+* the pizza guy changes directions
+* back to menu button
 
 ![pizza2](/multi_player/pizzapong1.jpg)
 
