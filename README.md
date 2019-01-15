@@ -24,7 +24,7 @@ _EDIT: For this project I took the pictures from the internet, therefore I DO NO
 ## Insomnia simulator
 ![insomnia1](/insomnia_simulator/simulator.gif)
 
-A interactive program that uses classes, arrays and for-loops to create an endless amount of stressmonsters, as they are hunting Pete, the protagonist of this program, in his sleep.
+A interactive program that uses classes, arrays and for-loops to create an endless amount of stressmonsters, as they are hunting Pete, the protagonist of this program, in his sleep.<br/><br/>
 
 ![insomnia2](/insomnia_simulator/insomnia2.PNG)
 
