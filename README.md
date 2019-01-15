@@ -40,3 +40,26 @@ With the help of variables the stressmonsters come in different shapes and sizes
 
 ## Pizza Pong
 ![pizza](/multi_player/pizzapong3.jpg)
+
+Pizza Pong is a version of Pong, but with an additional pizza making element. I used the minim library for the sound.
+
+There were two Versions of the game. Version A was a basic single player game. 
+
+**What's different in Version B:**
+..* a menu + how to play
+..* a multiplayer mode
+..* the pizza guy changes directions
+..* back to menu button
+
+![pizza2](/multi_player/pizzapong1.jpg)
+
+_(Version A on the left; Version B on the right)_
+
+![pizza3](/multi_player/pizzapong2.jpg)
+
+**Here are the rules:**
+
+You play single or multi player pong. For each point your pizza gets more ingredients. 
+You can win the game by earning 15 points and complete your pizza
+or losing your 3 lifes and burn the pizza.
+
