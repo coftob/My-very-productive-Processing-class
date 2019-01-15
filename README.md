@@ -10,5 +10,5 @@ With the use of sin/cos functions I created patterns which can be used for the l
 ![suicide rates](/suicide_rates/suiciderates.jpg)
 
 Using a downloaded dataset and arrays I wrote a program that searches through the dataset and displays the requested information.
-How does it work:
-Hover over the picture of each generation and see in which contry and year the suicide rates were the highest. You can differenciate between the statistics for men and women.
+
+**How does it work:** Hover over the picture of each generation and see in which contry and year the suicide rates were the highest. You can differenciate between the statistics for men and women.
