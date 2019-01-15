@@ -49,13 +49,15 @@ There were two Versions of the game. Version A was a basic single player game.
 * a menu + how to play
 * a multiplayer mode
 * the pizza guy changes directions
-* back to menu button
+* a back to menu button
 
 ![pizza2](/multi_player/pizzapong1.jpg)
 
 _(Version A on the left; Version B on the right)_
 
 ![pizza3](/multi_player/pizzapong2.jpg)
+
+_(Multiplayer mode)_
 
 **Here are the rules:**
 
