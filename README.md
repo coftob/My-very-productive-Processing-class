@@ -28,11 +28,11 @@ A interactive program that uses classes, arrays and for-loops to create an endle
 
 ![insomnia2](/insomnia_simulator/insomnia2.PNG)
 
-The start menu explains the setting.
+The start menu explains the setting.<br/>
 
 ![insomnia3](/insomnia_simulator/insomnia3.PNG)
 
-The slide controllers can change the value of the opacity, speed, amount and size of the stressmonsters.
+The slide controllers can change the value of the opacity, speed, amount and size of the stressmonsters.<br/>
 
 ![insomnia4](/insomnia_simulator/stressmonster.jpg)
 
@@ -55,11 +55,11 @@ There were two Versions of the game. Version A was a basic single player game.
 
 ![pizza2](/multi_player/pizzapong1.jpg)
 
-_(Version A on the left; Version B on the right)_
+_(Version A on the left; Version B on the right)_<br/>
 
 ![pizza3](/multi_player/pizzapong2.jpg)
 
-_(Multiplayer mode)_
+_(Multiplayer mode)_<br/>
 
 **Here are the rules:**
 
