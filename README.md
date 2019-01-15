@@ -20,6 +20,19 @@ _EDIT: I do not own these graphics. I took them from the internet._
 
 
 ## Insomnia simulator
-![insomnia](/insomnia_simulator/simulator.gif)
+![insomnia1](/insomnia_simulator/simulator.gif)
 
+A interactive program that uses classes, arrays and for-loops to create an endless amount of stressmonsters, as they are hunting Pete, the protagonist of this program, in his sleep.
+
+![insomnia2](/insomnia_simulator/insomnia2.PNG)
+
+The start menu explains the setting.
+
+![insomnia3](/insomnia_simulator/insomnia3.PNG)
+
+The slide controllers can change the value of the opacity, speed, amount and size of the stressmonsters.
+
+![insomnia4](/insomnia_simulator/stressmonster.jpg)
+
+With the help of variables the stressmonsters come in different shapes and sizes!
 
