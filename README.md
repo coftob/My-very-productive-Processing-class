@@ -5,7 +5,7 @@ These are Processing sketches I made during the winter semester 2018/19 at FH Po
 ![geometric patterns](/homework_07_Maria_kleeblatt/geometrischemuster.jpg)
 
 With the use of sin/cos functions I created patterns which can be used for the laser cutter. Also I learned about SVG files and gained back some old math skills! 
-
+<br/><br/><br/>
 
 
 ## Transformation of an unreadable dataset into a useful application
@@ -13,10 +13,12 @@ With the use of sin/cos functions I created patterns which can be used for the l
 
 Using a downloaded dataset and arrays I wrote a program that searches through the dataset and displays the requested information.
 
-**How does it work:** Hover over the picture of each generation and see in which contry and year the suicide rates were the highest. You can differenciate between the statistics for men and women.
+**How does it work:** 
+
+Hover over the picture of each generation and see in which contry and year the suicide rates were the highest. You can differenciate between the statistics for men and women.
 
 _EDIT: For this project I took the pictures from the internet, therefore I DO NOT own them._
-
+<br/><br/><br/>
 
 
 ## Insomnia simulator
@@ -35,7 +37,7 @@ The slide controllers can change the value of the opacity, speed, amount and siz
 ![insomnia4](/insomnia_simulator/stressmonster.jpg)
 
 With the help of variables the stressmonsters come in different shapes and sizes!
-
+<br/><br/><br/>
 
 
 ## Pizza Pong
