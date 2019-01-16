@@ -80,3 +80,8 @@ I created a 3D object (P3D) within a function, aka the chess piece, and made thi
 What started of as a bug, became a fun easter egg. When the vaslue of the size variable become smaller than zero, the chess pieces reverse their direction and turn upside down. To underline that, I wrote an if statement, that in this specific case the background shall be negative.
 <br/><br/><br/>
 
+## Kirchner's self portrait
+
+![kirchner](/kirchner/kirchner2.gif)
+
+I created shapes with with vertex, curveVertes and bezierVertex. The cigarette lightens up when it touches his mouth and by clicking with the mouse the woman in the background appears.
