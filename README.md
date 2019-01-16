@@ -66,3 +66,17 @@ _(Multiplayer mode)_<br/><br/>
 You play single or multi player pong. For each point your pizza gets more ingredients. 
 You can win the game by earning 15 points and complete your pizza
 or losing your 3 lifes and burn the pizza.
+<br/><br/><br/>
+
+
+## Flying chess pieces
+
+![chess1](/chess/chess1.jpg)
+
+I created a 3D object (P3D) within a function, aka the chess piece, and made this interactive 3D animation, where the chess pieces increase their size with the frame rate. You can change the color, speed, direction and scale by clicking on the buttons. <br/><br/>
+
+![chess2](/chess/chess2.jpg)
+
+What started as a bug, became a fun easter egg. When the variable of the size is smaller than zero, the chess pieces reverse their direction and turn upside down. To underline that, I wrote a sif statement, that in this specific case the background shall be negative.
+<br/><br/><br/>
+
