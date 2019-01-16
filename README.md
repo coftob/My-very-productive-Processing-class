@@ -11,7 +11,7 @@ With the use of sin/cos functions I created patterns which can be used for the l
 ## Transformation of an unreadable dataset into a useful application
 ![suicide rates](/suicide_rates/suiciderates.jpg)
 
-Using a downloaded dataset and arrays I wrote a program that searches through the dataset and displays the requested information.
+By using a downloaded dataset and arrays I wrote a program that searches through the dataset and displays the requested information.
 
 **How does it work:** 
 
@@ -77,7 +77,7 @@ I created a 3D object (P3D) within a function, aka the chess piece, and made thi
 
 ![chess2](/chess/chess2.jpg)
 
-What started of as a bug, became a fun easter egg. When the vaslue of the size variable become smaller than zero, the chess pieces reverse their direction and turn upside down. To underline that, I wrote an if statement, that in this specific case the background shall be negative.
+What started off as a bug, became a fun easter egg. When the vaslue of the size variable become smaller than zero, the chess pieces reverse their direction and turn upside down. To underline that, I wrote an if statement, that in this specific case the background shall be negative.
 <br/><br/><br/>
 
 ## Kirchner's self portrait
