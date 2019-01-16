@@ -84,4 +84,4 @@ What started of as a bug, became a fun easter egg. When the vaslue of the size v
 
 ![kirchner](/kirchner/kirchner2.gif)
 
-I created shapes with with vertex, curveVertes and bezierVertex. The cigarette lightens up when it touches his mouth and by clicking with the mouse the woman in the background appears.
+I created shapes with with vertex, curveVertex and bezierVertex. The cigarette lightens up when it touches his mouth and by clicking with the mouse the woman in the background appears.
