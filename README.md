@@ -77,6 +77,6 @@ I created a 3D object (P3D) within a function, aka the chess piece, and made thi
 
 ![chess2](/chess/chess2.jpg)
 
-What started as a bug, became a fun easter egg. When the variable of the size is smaller than zero, the chess pieces reverse their direction and turn upside down. To underline that, I wrote an if statement, that in this specific case the background shall be negative.
+What started of as a bug, became a fun easter egg. When the vaslue of the size variable become smaller than zero, the chess pieces reverse their direction and turn upside down. To underline that, I wrote an if statement, that in this specific case the background shall be negative.
 <br/><br/><br/>
 
