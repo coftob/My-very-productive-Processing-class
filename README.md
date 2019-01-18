@@ -79,7 +79,7 @@ I created a 3D object (P3D) within a function, aka the chess piece, and made thi
 
 What started off as a bug, became a fun easter egg. When the value of the size variable become smaller than zero, the chess pieces reverse their direction and turn upside down. To underline that, I wrote an if statement, that in this specific case the colors background picture get inverted.
 
-_EDIT: I was really creeped out by the design of this program, even if I wrote it myself. It may seem cute and fun an first, but the more you stare at it, the more uncomfortable you'll feel. As the chess pieces get bigger and bigger, you realize, these creatures came straight from hell._
+_EDIT: I was really creeped out by the design of this program, even though I wrote it myself. It may seem cute and fun an first, but the more you stare at it, the more uncomfortable you'll feel. As the chess pieces get bigger and bigger, you realize, these creatures came straight from hell._
 
 <br/><br/><br/>
 
